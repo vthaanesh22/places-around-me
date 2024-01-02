@@ -122,7 +122,6 @@ Hospital.html
 <title>Hospital</title>
 </head>
 <body bgcolor="pink">
-Output:
 <h1 align="center">
 <font color="red"><b>Vaniyambadi</b></font>
 </h1>
